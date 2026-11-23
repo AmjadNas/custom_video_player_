@@ -1,0 +1,6 @@
+numpy==2.2.5
+pandas==2.2.3
+pillow==11.2.1
+imageio==2.37.0
+tkvideoplayer==2.3
+notebook==7.4.2
